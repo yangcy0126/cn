@@ -1,30 +1,79 @@
 {{ $ := .root }}
 {{ $page := .page }}
+
 <style>
+.ma-box1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+.ma-box-item-left {
+  min-width: 0;
+}
+
+.ma-box-item-right img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+
+.wdsi-box .ma-box-item-left {
+  width: 70%;
+}
+.wdsi-box .ma-box-item-right {
+  width: 30%;
+}
+
+.dr-box .ma-box-item-left {
+  width: 80%;
+}
+.dr-box .ma-box-item-right {
+  width: 20%;
+}
+
+@media (max-width: 768px) {
   .ma-box1 {
-    display: flex;
-    justify-content: left;
+    flex-direction: column;
+    align-items: flex-start;
   }
-  .ma-box-item-left {
+
+  .wdsi-box .ma-box-item-left,
+  .wdsi-box .ma-box-item-right,
+  .dr-box .ma-box-item-left,
+  .dr-box .ma-box-item-right {
     width: 100%;
   }
+
+  .ma-box-item-right img {
+    max-width: 220px;
+    margin-top: 12px;
+  }
+}
 </style>
-<!-- Accomplishments widget -->
+
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
     {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
   </div>
+
   <div class="col-12 col-lg-8">
 
     <div class="card experience course">
       <div class="card-body">
-        <div class="ma-box1">
+        <div class="ma-box1 wdsi-box">
           <div class="ma-box-item-left">
-            “Digital Financial Risk”是<strong>杨存奕</strong>个人运营的团队研究方向的微信公众号。自2024年3月以来，公众号每晚8点发布与数字金融风险管理相关的热点话题、文献、征稿及政策信息。目前，公众号总阅读量超过15万次，关注者4000余名，涵盖学术界、业界和众多关心数字金融风险管理话题的读者，推文具有一定的时效性和传播力。
+            “外交情绪指数”（Diplomatic Sentiment Index）是基于15个国家2001—2026年官方外交文本，采用多阶段大语言模型流程构建的高频地缘政治情绪数据集。该指数支持跨国和事件层面的分析，并可用于预测地缘政治风险和国际资本流动。
+            <br>
+            <a href="https://yangcy0126.github.io/dsi-index-site/#overview" target="_blank">
+              访问 DSI Observatory
+            </a>
           </div>
           <div class="ma-box-item-right">
-            <img alt="" src="img/mediaAppearances1.jpg" />
+            <img alt="WDSI" src="img/wdsi.jpg" />
           </div>
         </div>
       </div>
@@ -32,17 +81,16 @@
 
     <div class="card experience course">
       <div class="card-body">
-        <div class="ma-box1">
+        <div class="ma-box1 dr-box">
           <div class="ma-box-item-left">
-            <strong>杨存奕</strong>，刘欢，曾燕，“保险服务广东制造业高质量发展”，广东保险学会，2023
+            “数字风险”是杨存奕自2023年起独立运营的微信公众号，分享数字经济、数字金融和风险管理相关的热点议题、学术文献、征稿信息与政策动态。目前公众号关注者超过7,000人，已发布原创文章90余篇，累计阅读量超过20万次。
           </div>
           <div class="ma-box-item-right">
-
+            <img alt="Digital Risk" src="img/20250427063336(2).jpg" />
           </div>
         </div>
       </div>
     </div>
-
 
   </div>
 </div>

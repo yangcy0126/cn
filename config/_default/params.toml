@@ -91,7 +91,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "135 Xin'gang West Road, Lingnan College, Sun Yat-sen University", city = "Guangzhou", region = "Guangdong", postcode = "510275", country = "China", country_code = "CN"}
+address = {street = "", city = "Hong Kong", region = "", postcode = "", country = "China", country_code = "CN"}
 
 
 # Geographic coordinates
@@ -99,7 +99,7 @@ address = {street = "135 Xin'gang West Road, Lingnan College, Sun Yat-sen Univer
 coordinates = {latitude = "35.608233", longitude = "139.679424"}
 
 # Directions for visitors to locate you.
-directions = "Midorigaoka 6th Building, Second Floor"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -113,8 +113,6 @@ directions = "Midorigaoka 6th Building, Second Floor"
 #contact_links = [
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "Google scholar", icon_pack = "fab", name = "", link = "https://scholar.google.co.jp/citations?user=5XrZqdQAAAAJ&hl=en"},
-#  {icon = "Github", icon_pack = "fab", name = "", link ="https://github.com/erawijantari"},
-#  {icon = "LinkedIn", icon_pack = "fab", name = "", link ="https://www.linkedin.com/in/erawijantari-pande-putu/"}
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -129,7 +127,7 @@ directions = "Midorigaoka 6th Building, Second Floor"
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "erawijantaript"
+twitter = ""
 
 ############################
 ## Regional Settings

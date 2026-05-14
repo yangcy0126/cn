@@ -1,57 +1,27 @@
 +++
-# Accomplishments widget.
-widget = "journalRoles"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 120  # Order that this section will appear.
-
-title = "期刊兼职"
+widget = "academicAwards"
+headless = true
+active = true
+weight = 120
+title = "服务"
 subtitle = ""
-
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
-
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
- 
-[[item]]
-  publication_name = "Industrial Digital Finance Empowering Real Economy Development"
-  publication_url = ""
-  writer_names = "Chapter 5"
-  organization = "Peking University Press, 2025"
-  description = """**管理编辑**：
-  
-  _Journal of Economic Analysis_、_Economic Analysis Letters_。"""
-
-[[item]]
-  publication_name = "Industrial Digital Finance Empowering Real Economy Development"
-  publication_url = ""
-  writer_names = "Chapter 5"
-  organization = "Peking University Press, 2025"
-  description = """**客座编辑**：
-  
-  _International Journal of Financial Studies_ 专刊 “[New Financial Risks in the FinTech Era](https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX)”。
-  
-  _Journal of Risk and Financial Management_ 专刊 “[Innovative Approaches to Managing Finance Risks in the FinTech Era](https://www.mdpi.com/journal/jrfm/special_issues/V8K89X54R3)”。
-  
-  _Sustainability Journal_ 专刊 “[Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D)”。"""
-
-[[item]]
-  publication_name = "Introduction to Digital Finance"
-  publication_url = ""
-  writer_names = "Chapter 3"
-  organization = "Peking University Press, 2024"
-  description = """**审稿人**：
-  
-  _Applied Economics_、_Business Strategy and the Environment_、_China Finance Review International_、_Economic Analysis and Policy_、_Energy Economics_、_Financial Innovation_、_International Review of Economics and Finance_、_International Review of Financial Analysis_、_Managerial and Decision Economics_、_Quantitative Finance and Economics_ 等。"""
-
-
-
-
 +++
 
+<h2>助理编辑</h2>
+<ul style="padding-left: 1.2em;">
+  <li>
+    <p style="margin-bottom: 1em;">
+      <em>International Review of Finance</em>（<a href="https://onlinelibrary.wiley.com/journal/14682443" target="_blank">link</a>）
+    </p>
+  </li>
+</ul>
 
+<h2>审稿人</h2>
+<ul style="padding-left: 1.2em;">
+  <li>
+    <p style="margin-bottom: 1em;">
+      <em>Applied Economics</em>、<em>Business Strategy and the Environment</em>、<em>China Finance Review International</em>、<em>Economic Modelling</em>、<em>Energy Economics</em>、<em>International Review of Financial Analysis</em>、<em>Review of Development Economics</em>、《系统工程理论与实践》等。
+    </p>
+  </li>
+</ul>

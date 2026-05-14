@@ -1,41 +1,32 @@
 +++
-# workingPapers widget.
-widget = "academicAwards"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
-
+widget = "academicAwards"
+headless = true
+active = true
+weight = 100
 title = "学术奖励"
 subtitle = ""
-
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
-
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
 
-**论文奖：**
+  求职明星，第二十五届中国经济学年会，2025
 
-第六届中国优选法统筹法与经济数学研究会量化金融与保险分会学术年会，优秀论文奖，2024
+  RePEc/IDEAS 全球青年经济学家百强（博士毕业5年内），2025
 
-第十四届钱学森城市学金奖，金奖提名奖，2024
+  中国金融学优秀青年学者论文奖，2025
 
-第四届国家重大战略及政策研究论坛，优秀论文奖，2024
+  第十三届广东省金融优秀研究成果奖最高等级论文，2025
 
-第九届风险管理与金融统计论坛，最佳论文奖，2024
+  第二十二届金融系统工程与风险管理年会优秀论文奖，2025
 
-**奖学金：**
+  第八届大数据、人工智能与金融科技会议优秀论文奖，2025
 
-中山大学校长奖学金
+  第六届中国优选法统筹法与经济数学研究会量化金融与保险分会学术年会优秀论文奖，2024
 
-岭南学院优秀博士生奖学金
+  中山大学校长奖学金，2024
 
-博士研究生国家奖学金
+  岭南学院优秀博士生奖学金，2024
 
-硕士研究生国家奖学金
+  博士研究生国家奖学金，2024
+
+  硕士研究生国家奖学金，2021

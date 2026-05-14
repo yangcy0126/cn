@@ -12,15 +12,9 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 +++
+《AI 与金融实践》，中山大学，2025，助教
 
-“数字金融与保险”，2024，授课老师：曾燕教授 
+《数字金融与保险》，中山大学，2024，助教
 
-“对新变革的管理”，2023，授课老师：刘明康教授 
-
+《对新变革的管理》，中山大学，2023，助教

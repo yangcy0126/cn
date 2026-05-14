@@ -4,29 +4,34 @@ name: 杨存奕
 
 # Username (this should match the folder name)
 authors:
-- 杨存奕
+- cunyiyang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 岭南学院
+role: URC 博士后研究员
   
 # Organizations/Affiliations
 organizations:
-- name: 中山大学
-  url: "https://www.sysu.edu.cn/"
+- name: 香港大学经管学院
+  url: "https://www.hkubs.hku.hk/"
+- name: 香港大学
+  url: "https://www.hku.hk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: <>
+bio: <数字技术持续进步已是大势所趋，而让其真正增进人的福祉，还需要清晰识别并有效管理其风险。>
 
-Interests:
+interests:
 - 数字金融
 - 金融风险
 - 绿色金融
 
-Education:
+education:
   courses:
+  - course: 金融学 访问博士生
+    institution: 香港大学
+    year:
   - course: 金融学 博士
     institution: 中山大学
     year:
@@ -45,18 +50,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:yangcy9@mail2.sysu.edu.cn
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/erawijantaript
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=dI8p98sAAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/erawijantari
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/erawijantari-pande-putu/
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-5420-1025
@@ -76,6 +72,4 @@ email: ""
 #- Visitors
 ---
 
-目前研究聚焦于**数字金融风险管理的理论与应用**。
-
-以第一或通讯作者在《经济研究》、_Financial Review_、_International Review of Financial Analysis_、_Technological Forecasting & Social Change_、_Business Strategy and the Environment_ 等期刊上发表20余篇论文。
+我现为香港大学经管学院 URC 博士后研究员，研究聚焦于**数字化转型中风险管理的理论与应用**。我相信，数字技术的持续进步已是大势所趋，而让其真正增进人的福祉，还需要清晰识别并有效管理其风险。
