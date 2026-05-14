@@ -102,17 +102,17 @@
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
-              {{ if .advisor }}
-                <p class="advisor" style="font-size: 16px; font-weight: normal;">
-                  <span>导师：</span>
+              <p class="institution">
+                {{ .institution }}
+                {{ if .advisor }}
+                  <span>，导师：</span>
                   {{ if .advisor_link }}
                     <a href="{{ .advisor_link }}" target="_blank" rel="noopener" style="font-size: 16px; font-weight: normal;">{{ .advisor }}</a>
                   {{ else }}
                     <span style="font-size: 16px; font-weight: normal;">{{ .advisor }}</span>
                   {{ end }}
-                </p>
-              {{ end }}
+                {{ end }}
+              </p>
             </div>
           </li>
           {{ end }}

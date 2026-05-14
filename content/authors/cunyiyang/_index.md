@@ -37,13 +37,13 @@ education:
   - course: 金融学 博士
     institution: 中山大学
     year:
-    advisor: Yan Zeng
-    advisor_link: "https://scholar.google.com/citations?hl=en&user=Yebjil0AAAAJ"
+    advisor: 曾燕
+    advisor_link: "https://lingnan.sysu.edu.cn/faculty/ZengYan"
   - course: 金融学 硕士
     institution: 广州大学
     year: 
-    advisor: Zhenghui Li
-    advisor_link: "https://www.researchgate.net/profile/Zhenghui-Li-2"
+    advisor: 李正辉
+    advisor_link: "https://ses.gzhu.edu.cn/info/1931/10441.htm"
   - course: 金融学 本科
     institution: 武汉理工大学
     year: 
@@ -78,4 +78,4 @@ email: ""
 #- Visitors
 ---
 
-香港大学经管学院 URC 博士后研究员，中山大学金融学博士，研究关注数字金融风险管理。在《经济研究》《系统工程理论与实践》、Financial Review、Technological Forecasting & Social Change、Business Strategy and the Environment等期刊发表论文。兼职亚洲金融学会旗舰期刊International Review of Finance助理编辑。曾获第二十五届中国经济学年会“学术新星”称号、中山大学校长奖学金、博士和硕士研究生国家奖学金。研究曾获中国金融学青年优秀论文、第十三届广东省优秀金融科研成果奖、FSERM优秀论文及多项会议优秀论文奖。
+香港大学经管学院 URC 博士后研究员，中山大学金融学博士，研究关注数字金融风险管理。在《经济研究》《系统工程理论与实践》、Financial Review、Technological Forecasting & Social Change、Business Strategy and the Environment等期刊发表论文。兼职亚洲金融学会旗舰期刊International Review of Finance助理编辑。曾获第二十五届中国经济学年会“学术新星”称号、中山大学校长奖学金、博士和硕士研究生国家奖学金。研究曾获中国金融学青年优秀论文奖、第十三届广东省优秀金融科研成果奖、FSERM优秀论文及多项会议优秀论文奖。
