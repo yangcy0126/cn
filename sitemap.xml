@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Yangcy0126.github.io/cn/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://Yangcy0126.github.io/cn/authors/authors/</loc>
   </url><url>
     <loc>https://Yangcy0126.github.io/cn/authors/cunyiyang/</loc>
@@ -12,6 +9,8 @@
     <loc>https://Yangcy0126.github.io/cn/authors/</loc>
   </url><url>
     <loc>https://Yangcy0126.github.io/cn/categories/</loc>
+  </url><url>
+    <loc>https://Yangcy0126.github.io/cn/</loc>
   </url><url>
     <loc>https://Yangcy0126.github.io/cn/blog/</loc>
   </url><url>
