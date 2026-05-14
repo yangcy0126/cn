@@ -70,19 +70,27 @@
         {{/* Get active page. */}}
         {{ $is_link_in_current_path := in $current_page.RelPermalink .URL }}
         {{ $is_widget_page := or $current_page.IsHome (eq $current_page.Type "widget_page") }}
-        {{ $hash := findRE "#(.+)" .URL }}
+        {{ $hash := "" }}
+        {{ $has_hash := false }}
+        {{ with findRE "#(.+)" .URL }}
+          {{ $hash = index . 0 }}
+          {{ $has_hash = true }}
+        {{ end }}
         {{ $is_same_page := $is_link_in_current_path }}
-        {{ if gt (len $hash) 0 }}
-          {{ $hash = index $hash 0 }}
+        {{ if $has_hash }}
           {{ $hash_removed := replace .URL $hash "" }}
           {{ if eq (len $hash_removed) 0 }}
             {{ $hash_removed = "/" }}{{/* Add robustness for `/#SECTION` or `#SECTION` in `menus.toml`. */}}
           {{ end }}
           {{ $is_same_page = eq (path.Dir $current_page.RelPermalink) (path.Dir ($hash_removed|relLangURL)) }}
         {{ end }}
+        {{ $is_home_hash := false }}
+        {{ if $has_hash }}
+          {{ $is_home_hash = eq (replace .URL $hash "") "" }}
+        {{ end }}
 
         <li class="nav-item">
-          <a class="nav-link {{if $is_link_in_current_path }} active{{end}}" href="{{.URL | relLangURL}}"{{ if and $is_widget_page $is_same_page }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
+          <a class="nav-link {{if $is_link_in_current_path }} active{{end}}" href="{{.URL | relLangURL}}"{{ if and $has_hash $is_widget_page (or $is_same_page $is_home_hash) }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
             {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
           </a>
         </li>
