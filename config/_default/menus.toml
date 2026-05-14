@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "发表"
+  name = "学术论文"
   url = "#featuredPublications"
   weight = 20
 
@@ -29,7 +29,7 @@
   weight = 45
 
 [[main]]
-  name = "服务"
+  name = "学术服务"
   url = "#journalRoles"
   weight = 47
 

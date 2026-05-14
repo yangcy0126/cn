@@ -3,7 +3,7 @@ widget = "academicAwards"
 headless = true
 active = true
 weight = 120
-title = "服务"
+title = "学术服务"
 subtitle = ""
 date_format = "Jan 2006"
 +++

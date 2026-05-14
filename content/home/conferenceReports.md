@@ -13,7 +13,7 @@ subtitle = ""
 date_format = "Jan 2006"
 
 +++
-2026 中国金融科技学术年会（CFTRC）<br>
+中国金融科技学术年会（CFTRC）<br>
 <span style="font-size: 0.95em; color: #555;">深圳，2026</span></p></li>
 
 中国经济学年会<br>
