@@ -14,17 +14,17 @@
   weight = 20
 
 [[main]]
-  name = "著作"
+  name = "参编专著"
   url = "#authoredBooks"
   weight = 30
 
 [[main]]
-  name = "项目"
+  name = "参与项目"
   url = "#researchProjects"
   weight = 40
 
 [[main]]
-  name = "奖励"
+  name = "荣誉奖项"
   url = "#academicAwards"
   weight = 45
 
@@ -34,7 +34,7 @@
   weight = 47
 
 [[main]]
-  name = "会议"
+  name = "会议汇报"
   url = "#conferenceReports"
   weight = 50
 

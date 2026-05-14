@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 91  # Order that this section will appear.
 
-title = "科研项目"
+title = "参与项目"
 subtitle = ""
 
 # Date format
@@ -21,16 +21,16 @@ date_format = "Jan 2006"
 <h2>进行中</h2>
 <ul style="padding-left: 1.2em;">
   <li><p style="margin-bottom: 1em;">金融数字化与金融风险治理研究<br>
-  <span style="font-size: 0.95em; color: #555;">国家社会科学基金重点项目（No. 24AZD019）</span></p></li>
+  <span style="font-size: 0.95em; color: #555;">国家社会科学基金重点项目，24AZD019，2024/11-2026/10</span></p></li>
 
   <li><p style="margin-bottom: 1em;">数字金融赋能与风险协调的统计监测研究<br>
   <span style="font-size: 0.95em; color: #555;">国家社会科学基金一般项目（No. 24BTJ039）</span></p></li>
 
-  <li><p style="margin-bottom: 1em;">产业数字金融赋能实体经济的理论与应用研究<br>
-  <span style="font-size: 0.95em; color: #555;">广东省自然科学基金卓越青年团队项目（No. 2023B1515040001）</span></p></li>
+  <li><p style="margin-bottom: 1em;">产业数字金融赋能实体经济的理论及其应用研究<br>
+  <span style="font-size: 0.95em; color: #555;">广东省自然科学基金卓越青年团队项目，2023B1515040001，2023/01-2026/12</span></p></li>
 
   <li><p style="margin-bottom: 1em;">基于绿色发展的保险资产配置研究<br>
-  <span style="font-size: 0.95em; color: #555;">国家自然科学基金项目（No. 72371256）</span></p></li>
+  <span style="font-size: 0.95em; color: #555;">国家自然科学基金面上项目，72371256，2024/01-2027/12</span></p></li>
 </ul>
 
 <h2>已完成</h2>

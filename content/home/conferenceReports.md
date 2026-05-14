@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 140  # Order that this section will appear.
 
-title = "会议报告"
+title = "会议汇报"
 subtitle = ""
 
 # Date format
@@ -28,10 +28,13 @@ date_format = "Jan 2006"
 粤港澳大湾区数字金融论坛<br>
 <span style="font-size: 0.95em; color: #555;">第三届，深圳，2025；第二届，广州，2024；第一届，广州，2023</span></p></li>
 
-大数据、人工智能与金融科技会议<br>
+“大数据、人工智能与金融科技”会议<br>
 <span style="font-size: 0.95em; color: #555;">第八届，广州，2025</span></p></li>
 
-数字金融自主知识体系前沿论坛<br>
+中国青年经济学家论坛<br>
+<span style="font-size: 0.95em; color: #555;">第二届，成都，2025</span></p></li>
+
+中国数字金融自主知识体系前沿学术研讨会<br>
 <span style="font-size: 0.95em; color: #555;">第一届，广州，2025</span></p></li>
 
 管理学自主知识体系前沿论坛<br>
@@ -46,7 +49,7 @@ date_format = "Jan 2006"
 大数据产学研高峰论坛<br>
 <span style="font-size: 0.95em; color: #555;">第十届，广州，2024</span></p></li>
 
-中国信息经济学会学术年会<br>
+中国信息经济学会年会<br>
 <span style="font-size: 0.95em; color: #555;">第三十六届，北京，2024</span></p></li>
 
 数字经济基础理论论坛<br>

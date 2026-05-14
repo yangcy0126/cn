@@ -29,23 +29,23 @@ interests:
 
 education:
   courses:
-  - course: 金融学 访问博士生
-    institution: 香港大学
+  - course: 访问博士
+    institution: 香港大学经管学院
     year:
-    advisor: Dragon Tang
+    advisor: Dragon Yongjun Tang
     advisor_link: "https://www.hkubs.hku.hk/people/dragon-yongjun-tang/"
-  - course: 金融学 博士
-    institution: 中山大学
+  - course: 博士，金融
+    institution: 中山大学岭南学院
     year:
     advisor: 曾燕
     advisor_link: "https://lingnan.sysu.edu.cn/faculty/ZengYan"
-  - course: 金融学 硕士
-    institution: 广州大学
+  - course: 硕士，金融
+    institution: 广州大学经济与统计学院
     year: 
     advisor: 李正辉
     advisor_link: "https://ses.gzhu.edu.cn/info/1931/10441.htm"
-  - course: 金融学 本科
-    institution: 武汉理工大学
+  - course: 本科，金融
+    institution: 武汉理工大学经济学院
     year: 
 
 # Social/Academic Networking
