@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 中国金融学年会<br>
 <span style="font-size: 0.95em; color: #555;">第二十二届，南京，2025；第二十一届，广州，2024；第二十届，北京，2023</span></p></li>
 
-金融系统工程与风险管理年会<br>
+金融系统工程与风险管理年会（FSERM）<br>
 <span style="font-size: 0.95em; color: #555;">第二十二届，芜湖，2025；第二十一届，北京，2024</span></p></li>
 
 粤港澳大湾区数字金融论坛<br>
@@ -46,9 +46,6 @@ date_format = "Jan 2006"
 《金融学季刊》论坛<br>
 <span style="font-size: 0.95em; color: #555;">第三届，广州，2025；第一届，广州，2023</span></p></li>
 
-大数据产学研高峰论坛<br>
-<span style="font-size: 0.95em; color: #555;">第十届，广州，2024</span></p></li>
-
 中国信息经济学会年会<br>
 <span style="font-size: 0.95em; color: #555;">第三十六届，北京，2024</span></p></li>
 
@@ -64,8 +61,8 @@ date_format = "Jan 2006"
 中国金融科技学年会<br>
 <span style="font-size: 0.95em; color: #555;">第七届，广州，2023</span></p></li>
 
-亚洲经济体货币政策问题与挑战国际会议<br>
-<span style="font-size: 0.95em; color: #555;">线上，2021</span></p></li>
+International Conference on Monetary Policy Issues and Challenges for Asian Economies<br>
+<span style="font-size: 0.95em; color: #555;">Online 2021</span></p></li>
 
 中国统计学年会<br>
 <span style="font-size: 0.95em; color: #555;">第八届，成都，2021</span></p></li>
