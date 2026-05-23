@@ -9,6 +9,8 @@ date_format = "Jan 2006"
 
 +++
 
+  最佳论文奖，中国金融科技学术年会，2026
+
   第二十五届中国经济学年会“学术新星”称号，2025
 
   Global Top 100 Young Economists (5 years or less), RePEc/IDEAS Database, 2025
