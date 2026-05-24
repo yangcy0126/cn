@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 
 <p class="award-certificate-item" data-pdf="files/awards/china-excellent-young-scholar-paper-finance-2025.pdf">中国金融学青年优秀论文奖，2025</p>
 
-<p class="award-certificate-item" data-pdf="files/awards/guangdong-financial-research-award-2025.pdf">第十三届广东省优秀金融科研成果奖，2025</p>
+<p>第十三届广东省优秀金融科研成果奖，2025</p>
 
 <p class="award-certificate-item" data-pdf="files/awards/fserm-2025-high-quality-paper-award.pdf">高质量论文奖，第二十二届金融系统工程与风险管理年会（FSERM），2025</p>
 
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
 
 <p>中山大学校长奖学金，2024</p>
 
-<p class="award-certificate-item" data-pdfs="2025|files/awards/lingnan-outstanding-doctoral-scholarship-2025.pdf;2024|files/awards/lingnan-outstanding-doctoral-scholarship-2024.pdf">岭南学院优秀博士生奖学金，2024、2025</p>
+<p>岭南学院优秀博士生奖学金，2024、2025</p>
 
 <p class="award-certificate-item" data-pdf="files/awards/doctoral-national-scholarship-2024.pdf">博士研究生国家奖学金，2024</p>
 
