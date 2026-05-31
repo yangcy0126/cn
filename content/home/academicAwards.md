@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 
 <p>第十三届广东省优秀金融科研成果奖，2025</p>
 
-<p class="award-certificate-item">高质量论文奖，金融系统工程与风险管理年会（FSERM），2025 <span class="award-certificate-trigger" data-pdf="files/awards/fserm-2025-high-quality-paper-award.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
+<p class="award-certificate-item">高质量论文奖，金融系统工程与风险管理年会，2025 <span class="award-certificate-trigger" data-pdf="files/awards/fserm-2025-high-quality-paper-award.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
 
 <p class="award-certificate-item">优秀论文奖，“大数据、人工智能与金融科技”会议，2025 <span class="award-certificate-trigger" data-pdf="files/awards/big-data-ai-fintech-2025-outstanding-paper-award.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
 

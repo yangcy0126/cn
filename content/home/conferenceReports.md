@@ -13,7 +13,7 @@ subtitle = ""
 date_format = "Jan 2006"
 
 +++
-中国金融科技学术年会（CFTRC）<br>
+中国金融科技学术年会<br>
 <span style="font-size: 0.95em; color: #555;">深圳，2026</span></p></li>
 
 INFORMS Conference on Service Science<br>
@@ -25,7 +25,7 @@ INFORMS Conference on Service Science<br>
 中国金融学年会<br>
 <span style="font-size: 0.95em; color: #555;">第二十二届，南京，2025；第二十一届，广州，2024；第二十届，北京，2023</span></p></li>
 
-金融系统工程与风险管理年会（FSERM）<br>
+金融系统工程与风险管理年会<br>
 <span style="font-size: 0.95em; color: #555;">第二十二届，芜湖，2025；第二十一届，北京，2024</span></p></li>
 
 粤港澳大湾区数字金融论坛<br>
