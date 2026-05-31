@@ -16,6 +16,9 @@ date_format = "Jan 2006"
 中国金融科技学术年会（CFTRC）<br>
 <span style="font-size: 0.95em; color: #555;">深圳，2026</span></p></li>
 
+INFORMS Conference on Service Science<br>
+<span style="font-size: 0.95em; color: #555;">Hangzhou 2026</span></p></li>
+
 中国经济学年会<br>
 <span style="font-size: 0.95em; color: #555;">第二十五届，上海，2025；第二十四届，北京，2024</span></p></li>
 
