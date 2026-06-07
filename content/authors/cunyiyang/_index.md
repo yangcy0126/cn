@@ -16,8 +16,6 @@ role: URC 博士后研究员
 organizations:
 - name: 香港大学经管学院
   url: "https://www.hkubs.hku.hk/"
-- name: 香港大学
-  url: "https://www.hku.hk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: <数字技术持续进步已是大势所趋，而让其真正增进人的福祉，还需要清晰识别并有效管理其风险。>
