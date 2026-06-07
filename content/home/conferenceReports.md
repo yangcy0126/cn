@@ -49,9 +49,6 @@ INFORMS Conference on Service Science<br>
 中国信息经济学会年会<br>
 <span style="font-size: 0.95em; color: #555;">第三十六届，北京，2024</span></p></li>
 
-数字经济基础理论论坛<br>
-<span style="font-size: 0.95em; color: #555;">第一届，北京，2024</span></p></li>
-
 互联网与数字经济论坛<br>
 <span style="font-size: 0.95em; color: #555;">第六届，北京，2024；第五届，长沙，2023</span></p></li>
 
