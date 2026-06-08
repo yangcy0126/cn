@@ -13,6 +13,14 @@ subtitle = ""
 date_format = "Jan 2006"
 
 [[item]]
+  publication_name = "Bank digitalization, liquidity allocation and consumption inequality: Evidence from China"
+  publication_url = ""
+  writer_names = "**Yang, C.**, Wu, J."
+  organization = "_Journal of Banking and Finance_. 2026, forthcoming"
+  image = "img/publications/bank-liquidity-consumption-inequality.jpg"
+  image_alt = "Bank digitalization, liquidity allocation, and consumption inequality"
+
+[[item]]
   publication_name = "中国数字普惠金融的发展模式探究：经济与民生的视角"
   publication_url = "https://kns.cnki.net/kcms2/article/abstract?v=_W1AupcyYgY7y35f8i7M4Lxl8TAOHk50Iv8xLDtxdpPgpdR99pq4_QR_leQPB2w4mnJNP5ROTWt9CzXODGLXsgD27qdYER5iyzejYfNPqIAxLmK5-g4mipdkAnLMLYRnGE5v5NToY8stZJBL2LIkP5T6XxSK6_gVz7mt6IyrWdwDiSillyba-1BcQTfZaaAl&uniplatform"
   writer_names = "曾燕, 查佳婧, 杨海生, **杨存奕（通讯作者）**"
