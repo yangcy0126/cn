@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   image_alt = "数字普惠金融与人情礼支出"
 
 [[item]]
-  publication_name = "Bank digitalization, liquidity allocation and consumption inequality: Evidence from China"
+  publication_name = "Bank digitalization, liquidity allocation and consumption inequality"
   publication_url = ""
   writer_names = "**Yang, C.**, Wu, J."
   organization = "_Journal of Banking and Finance_. 2026, forthcoming"
