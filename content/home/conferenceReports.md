@@ -35,7 +35,7 @@ INFORMS Conference on Service Science<br>
 <span style="font-size: 0.95em; color: #555;">第八届，广州，2025</span></p></li>
 
 中国青年经济学家论坛<br>
-<span style="font-size: 0.95em; color: #555;">第二届，成都，2025</span></p></li>
+<span style="font-size: 0.95em; color: #555;">成都，2025</span></p></li>
 
 中国数字金融自主知识体系前沿学术研讨会<br>
 <span style="font-size: 0.95em; color: #555;">第一届，广州，2025</span></p></li>
