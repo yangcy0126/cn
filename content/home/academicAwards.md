@@ -27,8 +27,6 @@ date_format = "Jan 2006"
 
 <p>中山大学校长奖学金，2024</p>
 
-<p>岭南学院优秀博士生奖学金，2024、2025</p>
-
 <p class="award-certificate-item">博士研究生国家奖学金，2024 <span class="award-certificate-trigger" data-pdf="files/awards/doctoral-national-scholarship-2024.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
 
 <p class="award-certificate-item">硕士研究生国家奖学金，2021 <span class="award-certificate-trigger" data-pdf="files/awards/masters-national-scholarship-2021.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
