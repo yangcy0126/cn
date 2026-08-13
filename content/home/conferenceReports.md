@@ -13,11 +13,14 @@ subtitle = ""
 date_format = "Jan 2006"
 
 +++
-中国金融科技学术年会<br>
-<span style="font-size: 0.95em; color: #555;">深圳，2026</span></p></li>
+中国优选法统筹法与经济数学研究会量化金融与保险分会学术年会<br>
+<span style="font-size: 0.95em; color: #555;">第八届，银川，2026；第七届，昆明，2025；第六届，南京，2024；第五届，武汉，2023</span></p></li>
 
 INFORMS Conference on Service Science<br>
 <span style="font-size: 0.95em; color: #555;">杭州，2026</span></p></li>
+
+中国金融科技学术年会<br>
+<span style="font-size: 0.95em; color: #555;">深圳，2026</span></p></li>
 
 中国经济学年会<br>
 <span style="font-size: 0.95em; color: #555;">第二十五届，上海，2025；第二十四届，北京，2024</span></p></li>
@@ -39,9 +42,6 @@ INFORMS Conference on Service Science<br>
 
 中国数字金融自主知识体系前沿学术研讨会<br>
 <span style="font-size: 0.95em; color: #555;">第一届，广州，2025</span></p></li>
-
-中国优选法统筹法与经济数学研究会量化金融与保险分会学术年会<br>
-<span style="font-size: 0.95em; color: #555;">第八届，银川，2026；第七届，昆明，2025；第六届，南京，2024；第五届，武汉，2023</span></p></li>
 
 《金融学季刊》论坛<br>
 <span style="font-size: 0.95em; color: #555;">第三届，广州，2025；第一届，广州，2023</span></p></li>
