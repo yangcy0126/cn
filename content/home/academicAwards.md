@@ -13,7 +13,7 @@ date_format = "Jan 2006"
 
 <p class="award-certificate-item">中国经济学年会“学术新星”称号，2025 <span class="award-certificate-trigger" data-pdf="files/awards/china-economics-annual-conference-job-market-star-2025.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
 
-<p class="award-certificate-item">Global Top 100 Young Economists (5 years or less), RePEc/IDEAS Database, 2025 <span class="award-certificate-trigger" data-pdf="files/awards/repec-ideas-young-economists-2025.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
+<p class="award-certificate-item">Global Top 100 Young Economists (5 years or less), RePEc/IDEAS, 2025 <span class="award-certificate-trigger" data-pdf="files/awards/repec-ideas-young-economists-2025.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
 
 <p class="award-certificate-item">中国金融学青年优秀论文奖，2025 <span class="award-certificate-trigger" data-pdf="files/awards/china-excellent-young-scholar-paper-finance-2025.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
 
