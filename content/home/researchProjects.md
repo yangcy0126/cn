@@ -18,7 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 +++
-<h2>进行中</h2>
 <ul style="padding-left: 1.2em;">
   <li><p style="margin-bottom: 1em;">投资于物和投资于人紧密结合的理论与政策研究<br>
   <span style="font-size: 0.95em; color: #555;">国家社会科学基金重大项目（No. 26ZDA032）</span></p></li>
@@ -34,10 +33,6 @@ date_format = "Jan 2006"
 
   <li><p style="margin-bottom: 1em;">基于绿色发展的保险资产配置研究<br>
   <span style="font-size: 0.95em; color: #555;">国家自然科学基金面上项目（No. 72371256）</span></p></li>
-</ul>
-
-<h2>已完成</h2>
-<ul style="padding-left: 1.2em;">
   <li><p style="margin-bottom: 1em;">企业金融化对研发创新的挤出效应及动机研究<br>
   <span style="font-size: 0.95em; color: #555;">国家社会科学基金一般项目（No. 21CTJ013）</span></p></li>
 
