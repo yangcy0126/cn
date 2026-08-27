@@ -37,14 +37,6 @@ date_format = "Jan 2006"
   image_alt = "企业金融化最优配置"
 
 [[item]]
-  publication_name = "数字普惠金融减轻居民维系社会资本的负担——来自人情礼支出的证据"
-  publication_url = "https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2025-0613"
-  writer_names = "曾燕, 张书驰, **杨存奕（通讯作者）**"
-  organization = "《计量经济学报》, 2026, 6(4), 1083-1100"
-  image = "img/publications/cn-social-capital-burden.png"
-  image_alt = "数字普惠金融与人情礼支出"
-
-[[item]]
   publication_name = "Bank digitalization, liquidity allocation and consumption inequality"
   publication_url = "https://doi.org/10.1016/j.jbankfin.2026.107799"
   writer_names = "**Yang, C.**, Wu, J."
@@ -67,14 +59,6 @@ date_format = "Jan 2006"
   organization = "_Financial Review_. 2025, 60(1), 71-93"
   image = "img/publications/bank-digitalization-inclusive-finance.jpg"
   image_alt = "Bank digitalization and inclusive finance"
-
-[[item]]
-  publication_name = "Climate transition risk and industry returns: The impact of green innovation and carbon market uncertainty"
-  publication_url = "https://doi.org/10.1016/j.techfore.2025.124056"
-  writer_names = "Zhou, Q., Ni, J., <strong>Yang, C*</strong>."
-  organization = "_Technological Forecasting and Social Change_. 2025, 214, 124056"
-  image = "img/publications/climate-transition-risk.jpg"
-  image_alt = "Climate transition risk and industry returns"
 
 [[item]]
   publication_name = "Government in the digital age: Exploring the impact of digital transformation on governmental efficiency"
