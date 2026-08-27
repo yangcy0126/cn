@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 
 <p>优秀论文奖，“大数据、人工智能与金融科技”会议，2025</p>
 
-<p class="award-certificate-item">优秀论文奖，中国优选法统筹法与经济数学研究会量化金融与保险分会学术年会，2024 <span class="award-certificate-trigger" data-pdf="files/awards/quantitative-finance-insurance-2024-outstanding-paper-award.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
+<p class="award-certificate-item">优秀论文奖，中国“双法”研究会量化金融与保险分会学术年会，2024 <span class="award-certificate-trigger" data-pdf="files/awards/quantitative-finance-insurance-2024-outstanding-paper-award.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
 
 <p>中山大学校长奖学金，2024</p>
 
