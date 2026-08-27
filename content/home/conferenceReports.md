@@ -13,6 +13,9 @@ subtitle = ""
 date_format = "Jan 2006"
 
 +++
+中国经济学年会<br>
+<span style="font-size: 0.95em; color: #555;">北京，2026；上海，2025；北京，2024</span></p></li>
+
 中国数字金融自主知识体系前沿学术研讨会<br>
 <span style="font-size: 0.95em; color: #555;">广州，2026；广州，2025</span></p></li>
 
@@ -24,9 +27,6 @@ INFORMS Conference on Service Science<br>
 
 中国金融科技学术年会<br>
 <span style="font-size: 0.95em; color: #555;">深圳，2026</span></p></li>
-
-中国经济学年会<br>
-<span style="font-size: 0.95em; color: #555;">上海，2025；北京，2024</span></p></li>
 
 中国金融学年会<br>
 <span style="font-size: 0.95em; color: #555;">南京，2025；广州，2024；北京，2023</span></p></li>
