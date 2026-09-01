@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   publication_name = "《产业数字金融赋能实体经济发展》"
   publication_url = ""
-  writer_names = "第五章"
+  writer_names = "第六章"
   organization = "北京大学出版社，预出版"
  
 
