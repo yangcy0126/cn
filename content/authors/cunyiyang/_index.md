@@ -81,6 +81,4 @@ email: ""
 
 我是香港大学经管学院 URC 博士后研究员，研究关注数字金融风险管理。
 
-在《经济研究》《系统工程理论与实践》、*Journal of Banking and Finance*、*Financial Review*、*Journal of Business Research*、*Technological Forecasting and Social Change*等期刊发表论文。
-
 兼任亚洲金融学会旗舰期刊*International Review of Finance*助理编辑。
