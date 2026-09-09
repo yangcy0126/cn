@@ -24,6 +24,11 @@
   weight = 45
 
 [[main]]
+  name = "决策咨询"
+  url = "#policyAdvisory"
+  weight = 46
+
+[[main]]
   name = "荣誉奖项"
   url = "#academicAwards"
   weight = 40
