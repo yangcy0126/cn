@@ -37,7 +37,7 @@ INFORMS Conference on Service Science<br>
 粤港澳大湾区数字金融论坛<br>
 <span style="font-size: 0.95em; color: #555;">深圳，2025；广州，2024；广州，2023</span></p></li>
 
-“大数据、人工智能与金融科技”会议<br>
+大数据、人工智能与金融科技会议<br>
 <span style="font-size: 0.95em; color: #555;">广州，2025</span></p></li>
 
 中国青年经济学家论坛<br>

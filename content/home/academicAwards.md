@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 
 <p class="award-certificate-item">高质量论文奖，金融系统工程与风险管理年会，2025 <span class="award-certificate-trigger" data-pdf="files/awards/fserm-2025-high-quality-paper-award.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
 
-<p>优秀论文奖，“大数据、人工智能与金融科技”会议，2025</p>
+<p>优秀论文奖，大数据、人工智能与金融科技会议，2025</p>
 
 <p class="award-certificate-item">优秀论文奖，中国“双法”研究会量化金融与保险分会学术年会，2024 <span class="award-certificate-trigger" data-pdf="files/awards/quantitative-finance-insurance-2024-outstanding-paper-award.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
 
