@@ -19,9 +19,6 @@ date_format = "Jan 2006"
 中国经济学年会<br>
 <span style="font-size: 0.95em; color: #555;">北京，2026；上海，2025；北京，2024</span></p></li>
 
-中国数字金融自主知识体系前沿学术研讨会<br>
-<span style="font-size: 0.95em; color: #555;">广州，2026；广州，2025</span></p></li>
-
 中国“双法”研究会量化金融与保险分会学术年会<br>
 <span style="font-size: 0.95em; color: #555;">银川，2026；昆明，2025；南京，2024；武汉，2023</span></p></li>
 
@@ -42,6 +39,9 @@ INFORMS Conference on Service Science<br>
 
 中国青年经济学家论坛<br>
 <span style="font-size: 0.95em; color: #555;">成都，2025</span></p></li>
+
+中国数字金融自主知识体系前沿学术研讨会<br>
+<span style="font-size: 0.95em; color: #555;">广州，2025</span></p></li>
 
 中国信息经济学会年会<br>
 <span style="font-size: 0.95em; color: #555;">北京，2024</span></p></li>
