@@ -9,6 +9,8 @@ date_format = "Jan 2006"
 
 +++
 
+<p class="award-certificate-item">最佳论文一等奖，中国金融学年会，2026 <span class="award-certificate-trigger" data-pdf="files/awards/china-finance-annual-conference-best-paper-first-prize-2026.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
+
 <p class="award-certificate-item">最佳论文奖，中国金融科技学术年会，2026 <span class="award-certificate-trigger" data-pdf="files/awards/cftrc-2026-best-paper-award.pdf" title="预览获奖证书 PDF" aria-label="预览获奖证书 PDF">PDF</span></p>
 
 <p>中山大学优秀博士毕业生，2026</p>
