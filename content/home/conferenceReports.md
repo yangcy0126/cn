@@ -13,6 +13,9 @@ subtitle = ""
 date_format = "Jan 2006"
 
 +++
+青年经济学者论坛<br>
+<span style="font-size: 0.95em; color: #555;">广州，2026</span></p></li>
+
 中国金融学年会<br>
 <span style="font-size: 0.95em; color: #555;">天津，2026；南京，2025；广州，2024；北京，2023</span></p></li>
 
