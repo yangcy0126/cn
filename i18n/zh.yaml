@@ -1,0 +1,11 @@
+- id: interests
+  translation: 研究领域
+
+- id: education
+  translation: 教育背景
+
+- id: search_results
+  translation: 条搜索结果
+
+- id: authors
+  translation: 作者
